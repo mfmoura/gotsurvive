@@ -1,0 +1,18 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+	background: #000;
+	text-align:center;
+	color:#FFF;
+}
+
+#giant{
+	font-family:"Arial Black", Gadget, sans-serif;
+	color:#F00;
+	font-size:72px;
+}
+
+#survey{
+	visibility:hidden;
+}
